@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f28b4022600593.58c272e374fa3.gif)
 <h1 align="center">Hi 👋, I'm Teja Yageti</h1>
-<h3 align="center">A passionate Cloud Technologies & DevOps Enthusiast. I work hard ,I like getting things done >!</h3>
+<h3 align="center">A passionate Cloud Technologies & DevOps Enthusiast. I work hard, I like getting things done >!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/84b6c45034b74eb4944bcba2704f885f9458224872be2dbfb9ceee3d657ae737/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323136302f312a3953334a684d744c47696163704e707a6957474e31412e676966">
 
 
