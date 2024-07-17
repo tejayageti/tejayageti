@@ -14,7 +14,7 @@
 
 - 📫 I'm an AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA)
 
-- 🌱 I’m skilled at *Clloud(AWS/Azure),Kubernetes,Terraform, Ansible, Atlassian Suite, Linux System Administration and many more**
+- 🌱 I’m skilled at *Cloud(AWS/Azure), Kubernetes,Terraform, Ansible, Atlassian Suite, Linux System Administration and many more**
 
 - 💬 Ask me about **DevOps Culture**
 
