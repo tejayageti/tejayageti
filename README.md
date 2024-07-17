@@ -10,13 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejayageti&label=Profile%20views&color=0e75b6&style=flat" alt="tejayageti" /> </p>
 
-- 🔭 I’m currently working on **Linux and System Administration (L1)**
+- 🔭 I’m currently working as **DevSecOps/SRE Engineer**
 
-- 🌱 I’m currently learning **GCP , Kubernetes**
+- 📫 I'm an AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA)
 
-- 💬 Ask me about **DevOps Methodology**
+- 🌱 I’m skilled at *Clloud(AWS/Azure),Kubernetes,Terraform, Ansible, Atlassian Suite, Linux System Administration and many more**
 
-- 📫 How to reach me **tejayageti@gmail.com**
+- 💬 Ask me about **DevOps Culture**
+
+- 📫 How to reach me **tejayageti10@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
